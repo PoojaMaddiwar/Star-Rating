@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-     <Comp1></Comp1>
+     <Comp1 noOfStar={10}></Comp1>
         
     </>
   )

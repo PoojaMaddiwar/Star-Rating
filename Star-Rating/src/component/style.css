@@ -1,1 +1,17 @@
 
+.active{
+    color: gold;
+}
+
+.inactive{
+    color: black;
+}
+
+.starrating{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+   
+
+    
+}
